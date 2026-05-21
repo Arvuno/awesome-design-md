@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-73-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-71-10b981?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-design-md?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-design-md)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
@@ -165,14 +165,6 @@ Every file follows the [Stitch DESIGN.md format](https://stitch.withgoogle.com/d
 | 7 | Do's and Don'ts | Design guardrails and anti-patterns |
 | 8 | Responsive Behavior | Breakpoints, touch targets, collapsing strategy |
 | 9 | Agent Prompt Guide | Quick color reference, ready-to-use prompts |
-
-Each site includes:
-
-| File | Purpose |
-|------|---------|
-| `DESIGN.md` | The design system (what agents read) |
-| `preview.html` | Visual catalog showing color swatches, type scale, buttons, cards |
-| `preview-dark.html` | Same catalog with dark surfaces |
 
 ### How to Use
 
