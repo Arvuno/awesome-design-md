@@ -196,3 +196,5 @@ Before opening a PR, please [open an issue](https://github.com/VoltAgent/awesome
 MIT License - see [LICENSE](LICENSE)
 
 This repository is a curated collection of design system documents extracted from public websites. All DESIGN.md files are provided "as is" without warranty. The extracted design tokens represent publicly visible CSS values. We do not claim ownership of any site's visual identity. These documents exist to help AI agents generate consistent UI.
+
+- Documentation updated for clarity
