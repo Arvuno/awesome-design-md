@@ -23,3 +23,6 @@ We cannot accept DESIGN.md pull requests to maintain the quality of the existing
 ## License
 
 By contributing, you agree your contributions are provided under the repository license terms.
+
+## Contributors
+- Documentation improvements (2026)
